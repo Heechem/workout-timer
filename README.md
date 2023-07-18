@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Short project to understad the scops and the stale State in use Effect 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Workout timer, with useEffect ,memoazition , and use callback 
+
+![image](https://github.com/Heechem/workout-timer/assets/117024247/c27da0f6-e7d3-4ecf-9dec-e95b88eac31c)
+
+
+
 
 ## Available Scripts
 
